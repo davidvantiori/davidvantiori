@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidvantiori
-- 👀 I’m interested in 
-- 🌱 I’m currently learning mmWave and RF circuit design, RF integrated circuits, DSP and digital IC.
-- 📫 How to reach me: aguilardavid33@hotmail.com
+  I’m currently learning mmWave and RF circuit design, RF integrated circuits, DSP and digital IC.
+  How to reach me: aguilardavid33@hotmail.com
 
 <!---
 davidvantiori/davidvantiori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
